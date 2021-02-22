@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://sweitler.io/"
 languageCode = "en-us"
 title = "Sydney Weitler"
 themesDir = "themes"
