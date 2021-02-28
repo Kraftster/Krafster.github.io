@@ -40,8 +40,8 @@ publishDir = "docs"
     weight = 3
 
 [[menu.main]]
-    name = "Artifacts"
-    url = "/artifacts/"
+    name = "Reflection"
+    url = "/reflection/"
     weight = 3
 
 # [[menu.main]]
