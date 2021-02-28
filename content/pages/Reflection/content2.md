@@ -8,4 +8,4 @@ align: left
 
 **What does this sample convey about you and your growth and development?**
 
-testtttttttt
+Due to the confusion of the Artifact section and the inability to locate the Understanding of Originality File, this section has been left blank.

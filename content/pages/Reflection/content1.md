@@ -8,4 +8,6 @@ align: right
 
 **Why have you chosen this particular sample of your work?**
 
-testttttttt
+Due to the confusion of the Artifact section and the inability to locate the Understanding of Originality File, this section has been left blank.
+
+Thank you professor for allowing me to submit this and move onto PP2. :)

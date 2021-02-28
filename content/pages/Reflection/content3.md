@@ -10,4 +10,4 @@ align: right
 
 **How does this sample relate to your learning in the SSW program?**
 
-testttttttt
+Due to the confusion of the Artifact section and the inability to locate the Understanding of Originality File, this section has been left blank.
