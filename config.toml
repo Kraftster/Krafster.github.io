@@ -39,10 +39,10 @@ publishDir = "docs"
     url = "/about/"
     weight = 3
 
-# [[menu.main]]
-#     name = "Artifacts"
-#     url = "/artifacts/"
-#     weight = 3
+[[menu.main]]
+    name = "Artifacts"
+    url = "/artifacts/"
+    weight = 3
 
 # [[menu.main]]
 #     name = "Contact"
