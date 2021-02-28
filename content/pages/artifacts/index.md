@@ -1,10 +1,11 @@
 ---
 title: 'Artifacts'
 date: 2018-12-06T09:29:16+10:00
-draft: false
-layout: 'artifacts'
+layout: 'single'
+heroHeading: 'Sydney Weitler'
+heroSubHeading: "Social Service Worker Diploma"
+heroBackground: 'https://cdn.pixabay.com/photo/2016/11/18/22/13/clouds-1837129_960_720.jpg'
 ---
-
-{{< content-strip-left "/pages/history" "content1" >}}
-{{< content-strip-right "/pages/about" "content2" >}}
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-left "/pages/artifacts" "content1" >}}
+{{< content-strip-right "/pages/artifacts" "content2" >}}
+{{< content-strip-center "/pages/artifacts" "content3" >}}
