@@ -6,6 +6,7 @@ background: 'https://cdn.pixabay.com/photo/2020/01/04/18/40/trees-4741364_960_72
 align: left
 ---
 **Phone Number:** 647-888-9446  
-**Email:** sweitler@gmail.com
+**Email:** sweitler@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/sweitler/
 
-![alt Certification](pfp.jpg)
+![alt Certification](pfp2.png)
